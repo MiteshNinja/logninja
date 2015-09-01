@@ -2,11 +2,11 @@
 
 A tool to log/document my life.
 
-### Currently supports
+## Currently supports
 
 * Movies
 
-### Future plans
+## Future plans
 
 * Flexible
 * Logs everything
@@ -37,21 +37,10 @@ Also, I like documenting/tracking/logging things.
 
 LogNinja needs Python 3.x
 
-Clone this repository
-    
     git clone https://github.com/MiteshNinja/logninja 
-
-Change current working directory to 'logninja'
-
     cd logninja
-
-Optional but highly recommended: Setup a virtualenv(ironment) and activate it.
-
     virtualenv venv
     source venv/bin/activate
-
-Install the requirements
-
     pip3 install -r requirements.txt
 
 Done.
